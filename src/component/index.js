@@ -231,4 +231,4 @@ ReactImageUploadComponent.PropTypes = {
 	errorClass: PropTypes.string,
 	errorStyle: PropTypes.object
 };
-export default ReactImageUploadComponent;
+module.exports = ReactImageUploadComponent;
